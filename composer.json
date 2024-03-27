@@ -1,0 +1,16 @@
+{
+  "name": "simtel/patterns",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "simtel"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Factory\\": "Creational/Factory"
+    }
+  }
+}
